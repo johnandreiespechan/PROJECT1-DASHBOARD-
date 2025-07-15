@@ -1,5 +1,5 @@
 # EXCEL DASHBOARD
----
+
 ### **TITLE: Job Titles Differ From One Another Based On Salary**
 
 ### COLUMNS (HEADER)   
